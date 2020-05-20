@@ -464,9 +464,11 @@ a:hover {
                 position: absolute;
                 bottom: 60px;
                 left: 30px;
+                width: auto;
             }
             &-heading {
                 font-size: 25px;
+                width: auto;
             }
             &-text {
                 display: none;
